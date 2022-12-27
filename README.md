@@ -15,7 +15,6 @@ src/functions/
 └── config.json
 ```
 ```json
-config.json
 [
   {
     "name": "simpleExample",
