@@ -1,7 +1,7 @@
 ### Fabby usage
 #### Allow permissions :
 ```bash
-chmod +x ./fabby    
+chmod +x ./fabby.js
 ```
 #### Write this command and let the magic happen :
 ```bash
