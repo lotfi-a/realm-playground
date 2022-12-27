@@ -7,7 +7,7 @@ chmod +x ./fabby
 ```ts
 ./fabby.js <function-name>
 ```
-#### Fabby write a typescript file and editing the config.json :
+#### Fabby write a typescript file and edits the config.json :
 
 ```bash
 src/functions/
