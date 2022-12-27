@@ -22,7 +22,7 @@ functionConfig.push({
   runAsSystem: true,
 });
 
-fs.writeFileSync(
+fs.writeFile(
   configPath,
   JSON.stringify(functionConfig, null, 2),
   function (err) {
